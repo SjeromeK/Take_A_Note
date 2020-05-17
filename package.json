@@ -1,0 +1,25 @@
+{
+  "name": "Take_A_Note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SjeromeK/Take_A_Note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SjeromeK/Take_A_Note/issues"
+  },
+  "homepage": "https://github.com/SjeromeK/Take_A_Note#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.0.0"
+  }
+}
